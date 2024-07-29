@@ -1,3 +1,4 @@
+---
 title: 'Home'  
 date: 2023-10-24  
 type: landing  
@@ -19,3 +20,4 @@ sections:
         link:  
           text: "了解更多"  
           url: "/showcase/"
+---
